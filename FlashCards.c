@@ -1,20 +1,39 @@
 ﻿/*
+
 	FlashCards v0.1 - Author: Torqk - 2024
 
-	CLS_SIZE = Set the number of lines to space out each flash card on the console.
+	( Check Source directory for sample .txt files )
 
-	[ ========================================== .txt legend: ========================================== ]
+	[ ========================================= #define legend: ========================================== ]
 
-	<a:label#size>	=	New div. single character is the div symbol. string after ':' is the label.
+	CLS_SIZE		=	Set the number of lines to space out each flash card on the console.
+
+	[ ========================================= Options legend: ========================================== ]
+
+	Toggle Lists	=	Switch between the primary list and your "focus" list
+
+	Transfer Items	=	Transfer current item from the list you are currently viewing to the one you are not
+
+	Randomize		=	Traverses the "randomized" indices, ensuring all elements are seen at-least once
+						Before re-randomizing
+
+	Reverse			=	Traverse indices in reverse order (works for both sorted and randomized)
+
+	Attribute Mask	=	"Bit-Wise" masks all your designated attributes, letting you pick which ones reveal
+
+	Print All		=	Prints all entries, with all of their attributes
+
+	[ =========================================== .txt legend: =========================================== ]
+
+	<a:label#size>	=	New div. single character is the attribute symbol. string after ':' is the label.
 						number after '#' is the column width. eg: <a:Answer#20>
 
-	<*>				=	New entry. can be combined with the first div block. eg: <*q>
+	<*>				=	New entry. can be combined with the first attribute block. eg: <*q>
 	
 	</>				=	Finish entry. Nothing more will get populated for that flash card
 
-	[ ================================================================================================== ]
+	[ ==================================================================================================== ]
 
-	Check Source directory for sample .txt files.
 */
 
 

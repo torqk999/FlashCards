@@ -130,8 +130,8 @@ void Divs_PrintInfo(int index, int mode, int active) {
 				TextChunk_PrintWord(targetChunk);										// Forced word push on first
 				int nextPlusSpace = (1 + TextChunk_NextWordLength(targetChunk));		// Next char range
 
-				while (accumulator + nextPlusSpace < divs[i]._colWidth - 2 &&				// Continue to print while room remains
-					targetChunk->_currentIndex < targetChunk->_size_trim) {					// And there is words left to print			
+				while (accumulator + nextPlusSpace < divs[i]._colWidth - 2 &&			// Continue to print while room remains
+					targetChunk->_currentIndex < targetChunk->_size_trim) {				// And there is words left to print			
 					TextChunk_PrintWord(targetChunk);
 					accumulator += nextPlusSpace;
 					nextPlusSpace = (1 + TextChunk_NextWordLength(targetChunk));
@@ -367,7 +367,7 @@ void Divs_BuildChunks() {
 void Divs_Debug() {
 
 	Divs_PrintBreakLine();
-	Divs_PrintHeaders(1, 0);
+	Divs_PrintHeaders(0, 0);
 	Divs_PrintBreakLine();
 
 	for (int i = 0; i < entryCount; i++) {
