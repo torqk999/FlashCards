@@ -1,0 +1,47 @@
+<>802.11ad																December 2012	60	2160 (2.16 GHz)	Up to 8085[30] (8 Gbit/s)		OFDM[A], single carrier, low-power single carrier[A]	3.3 m (11 ft)[31]	? mmWave (WiGig)	DMG [29]
+<>802.11aj																April 2018	60 [H]	1080[32]	Up to 3754 (3.75 Gbit/s)		single carrier, low-power single carrier[A]	?	? mmWave (WiGig)	CMMG									
+<>802.11aj																April 2018	45 [H]	540, 1080	Up to 15015[33] (15 Gbit/s)	4 [34]	OFDM, single carrier	?	? mmWave (WiGig)	EDMG [35]												
+<>802.11ay																July 2021	60	Up to 8640 (8.64 GHz)	Up to 303336[36] (303 Gbit/s)	8	OFDM, single carrier	10 m (33 ft)	100 m (328 ft) Sub 1 GHz (IoT)	TVHT [37]				
+<>802.11af																February 2014	0.0540.79	6, 7, 8	Up to 568.9[38]	4	MIMO-OFDM	?	? Sub 1 GHz (IoT)	S1G [37]																		
+<>802.11ah																May 2017	0.7, 0.8, 0.9	116	Up to 8.67[39] (@2 MHz)	4	MIMO-OFDM	?	? Light (Li-Fi)	LC (VLC/OWC)																
+<>802.11bb																December 2023 (est.)	8001000 nm	20	Up to 9.6 Gbit/s		O-OFDM	?	? Light (Li-Fi)	IR[A] (IrDA)																	
+<>802.11																1997	June 1997	850900 nm	?	1, 2		PPM[A]	?	?																												
+#32
+<q>802.11		<a>GHz 1-7	DSSS[22], FHSS[A]							<d>June 1997	2.4	22	1, 2		DSSS, FHSS[A]	20 m (66 ft)	100 m (330 ft)																								<>
+<q>802.11b		<a>GHz 1-7	HR/DSSS [22]								<d>September 1999	2.4	22	1, 2, 5.5, 11		CCK, DSSS	35 m (115 ft)	140 m (460 ft)																						<>
+<q>802.11a		<a>GHz 1-7	OFDM										<d>September 1999	5	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	35 m (115 ft)	120 m (390 ft)			<>
+<q>802.11j		<a>GHz 1-7	OFDM										<d>November 2004	4.9, 5.0 [B][23]	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	?	?					<>
+<q>802.11y		<a>GHz 1-7	OFDM										<d>November 2008	3.7 [C]	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	?	5,000 m (16,000 ft)[C]			<>
+<q>802.11p		<a>GHz 1-7	OFDM										<d>July 2010	5.9	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	200 m	1,000 m (3,300 ft)[24]				<>
+<q>802.11bd		<a>GHz 1-7	OFDM										<d>December 2022	5.9, 60	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	500 m	1,000 m (3,300 ft)			<>
+<q>802.11g		<a>GHz 1-7	ERP-OFDM[25]								<d>June 2003	2.4	5, 10, 20	6, 9, 12, 18, 24, 36, 48, 54 (for 20 MHz bandwidth, divide by 2 and 4 for 10 and 5 MHz)		OFDM	38 m (125 ft)	140 m (460 ft)				<>
+<q>802.11n		<a>GHz 1-7	HT-OFDM [26]			(Wi-Fi 4)			<d>October 2009	2.4, 5	20	Up to 288.8[D]	4	MIMO-OFDM (64-QAM)	70 m (230 ft)	250 m (820 ft)[27]																			<>
+<q>802.11n		<a>GHz 1-7	HT-OFDM [26]			(Wi-Fi 4)			<d>October 2009	2.4, 5	40	Up to 600[D]	4	MIMO-OFDM (64-QAM)	70 m (230 ft)	250 m (820 ft)[27]																			<>
+<q>802.11ac		<a>GHz 1-7	VHT-OFDM [26]			(Wi-Fi 5)			<d>December 2013	5	20	Up to 693[D]	8	DL MU-MIMO OFDM (256-QAM)	35 m (115 ft)[28]	?																				<>
+<q>802.11ac		<a>GHz 1-7	VHT-OFDM [26]			(Wi-Fi 5)			<d>December 2013	5	40	Up to 1600[D]	8	DL MU-MIMO OFDM (256-QAM)	35 m (115 ft)[28]	?																				<>
+<q>802.11ac		<a>GHz 1-7	VHT-OFDM [26]			(Wi-Fi 5)			<d>December 2013	5	80	Up to 3467[D]	8	DL MU-MIMO OFDM (256-QAM)	35 m (115 ft)[28]	?																				<>
+<q>802.11ac		<a>GHz 1-7	VHT-OFDM [26]			(Wi-Fi 5)			<d>December 2013	5	160	Up to 6933[D]	8	DL MU-MIMO OFDM (256-QAM)	35 m (115 ft)[28]	?																				<>
+<q>802.11ax		<a>GHz 1-7	HE-OFDMA				(Wi-Fi 6, Wi-Fi 6E)	<d>May 2021	2.4, 5, 6	20	Up to 1147[E]	8	UL/DL MU-MIMO OFDMA (1024-QAM)	30 m (98 ft)	120 m (390 ft) [F]																<>
+<q>802.11ax		<a>GHz 1-7	HE-OFDMA				(Wi-Fi 6, Wi-Fi 6E)	<d>May 2021	2.4, 5, 6	40	Up to 2294[E]	8	UL/DL MU-MIMO OFDMA (1024-QAM)	30 m (98 ft)	120 m (390 ft) [F]																<>
+<q>802.11ax		<a>GHz 1-7	HE-OFDMA				(Wi-Fi 6, Wi-Fi 6E)	<d>May 2021	2.4, 5, 6	80	Up to 4804[E]	8	UL/DL MU-MIMO OFDMA (1024-QAM)	30 m (98 ft)	120 m (390 ft) [F]																<>
+<q>802.11ax		<a>GHz 1-7	HE-OFDMA				(Wi-Fi 6, Wi-Fi 6E)	<d>May 2021	2.4, 5, 6	80+80	Up to 9608[E]	8	UL/DL MU-MIMO OFDMA (1024-QAM)	30 m (98 ft)	120 m (390 ft) [F]															<>
+<q>802.11be		<a>GHz 1-7	EHT-OFDMA				(Wi-Fi 7)			<d>Dec 2024 (est.)	2.4, 5, 6	80	Up to 11.5 Gbit/s[E]	16	UL/DL MU-MIMO OFDMA (4096-QAM)	30 m (98 ft)	120 m (390 ft) [F]												<>
+<q>802.11be		<a>GHz 1-7	EHT-OFDMA				(Wi-Fi 7)			<d>Dec 2024 (est.)	2.4, 5, 6	160 (80+80)	Up to 23 Gbit/s[E]	16	UL/DL MU-MIMO OFDMA (4096-QAM)	30 m (98 ft)	120 m (390 ft) [F]											<>
+<q>802.11be		<a>GHz 1-7	EHT-OFDMA				(Wi-Fi 7)			<d>Dec 2024 (est.)	2.4, 5, 6	240 (160+80)	Up to 35 Gbit/s[E]	16	UL/DL MU-MIMO OFDMA (4096-QAM)	30 m (98 ft)	120 m (390 ft) [F]										<>
+<q>802.11be		<a>GHz 1-7	EHT-OFDMA				(Wi-Fi 7)			<d>Dec 2024 (est.)	2.4, 5, 6	320 (160+160)	Up to 46.1 Gbit/s[E]	16	UL/DL MU-MIMO OFDMA (4096-QAM)	30 m (98 ft)	120 m (390 ft) [F]									<>
+<q>802.11bn		<a>GHz 1-7	UHR						(Wi-Fi 8)			<d>May 2028 (est.)	2.4, 5, 6, 42, 60, 71	320	Up to 100000 (100 Gbit/s)	16	Multi-link MU-MIMO OFDM (8192-QAM)	?	?														<>
+<q>802.11ba		<a>GHz 1-7	WUR [G]										<d>October 2021	2.4, 5	4, 20	0.0625, 0.25 (62.5 kbit/s, 250 kbit/s)		OOK (multi-carrier OOK)	?	? mmWave (WiGig)	DMG [29]											<>
+<q>802.11bn		<a>GHz 2.4, 5, 6, 7, 42.5, 71[2]	Wi-Fi 8				<d>2028	100,000[1]																																								<>
+<q>802.11be		<a>GHz 2.4, 5, 6[3]					Wi-Fi 7				<d>2024	137646,120																																								<>
+<q>802.11ax		<a>GHz 6[a]							Wi-Fi 6E			<d>2020	5749608[4]																																								<>
+<q>802.11ax		<a>GHz 2.4, 5						Wi-Fi 6				<d>2019	5749608[4]																																								<>
+<q>802.11ac		<a>GHz 5[b]							Wi-Fi 5				<d>2014	4336933																																									<>
+<q>802.11n		<a>GHz 2.4, 5						Wi-Fi 4				<d>2008	72600																																									<>
+<q>802.11g		<a>GHz 654	2.4						(Wi-Fi 3)*			<d>2003																																											<>
+<q>802.11a		<a>GHz 5							(Wi-Fi 2)*			<d>1999																																											<>
+<q>802.11b		<a>GHz 111	2.4						(Wi-Fi 1)*			<d>1999																																											<>
+<q>802.11		<a>GHz 12	2.4						(Wi-Fi 0)*			<d>1997																																											<>
+
+
+[2.4][5] [ 6 ][ 7 ]
+[bgx][a] [double letters]

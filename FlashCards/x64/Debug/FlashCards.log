@@ -1,0 +1,19 @@
+﻿  Divs.c
+  FlashCards.c
+  Generating Code...
+C:\Repos\FlashCards\Divs.c(59,1): warning C4026: function declared with formal parameter list
+C:\Repos\FlashCards\Divs.c(300,10): warning C4098: 'Divs_Parse': 'void' function returning a value
+C:\Repos\FlashCards\Divs.c(364,10): warning C4098: 'Divs_BuildChunks': 'void' function returning a value
+C:\Repos\FlashCards\FlashCards.c(51,1): warning C4005: 'DEBUG': macro redefinition
+  C:\Repos\FlashCards\FlashCards.c(47,1):
+  see previous definition of 'DEBUG'
+  
+C:\Repos\FlashCards\FlashCards.c(53,1): warning C4005: 'DEBUGx': macro redefinition
+  C:\Repos\FlashCards\FlashCards.c(48,1):
+  see previous definition of 'DEBUGx'
+  
+C:\Repos\FlashCards\FlashCards.c(128,3): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Repos\FlashCards\FlashCards.c(154,13): warning C4013: 'input_dec' undefined; assuming extern returning int
+C:\Repos\FlashCards\FlashCards.c(158,8): warning C4552: '>>': result of expression not used
+C:\Repos\FlashCards\Divs.c(401,1): warning C4715: 'Divs_Setup': not all control paths return a value
+  FlashCards.vcxproj -> C:\Repos\FlashCards\x64\Debug\FlashCards.exe

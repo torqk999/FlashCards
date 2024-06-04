@@ -1,0 +1,32 @@
+<> Protocols for the CompTIA A+ Core 1 + 2
+
+#28
+<q>APIPA		<a>Automatic Private Internet Protocol Addressing											<>
+<q>ARP			<a>Address Resolution Protocol																<>
+<q>CCMP			<a>Cipher Block Chaining Message Authentication Code Protocol/Counter-Mode-CBC-Mac Protocol	<>
+<q>CHAP			<a>Challenge Handshake Authentication Protocol												<>
+<q>DHCP			<a>Dynamic Host Configuration Protocol														<>
+<q>EAP			<a>Extensible Authentication Protocol														<>
+<q>EAPOL		<a>Extensible Authentication Protocol over LAN												<>
+<q>FTP			<a>File Transfer Protocol																	<>
+<q>GCMP			<a>Galois Counter Mode Protocol																<>
+<q>HTTP			<a>Hypertext Transfer Protocol																<>
+<q>HTTPS		<a>Hypertext Transfer Protocol Secure														<>
+<q>IMAP			<a>Internet Mail Access Protocol															<>
+<q>IP			<a>Internet Protocol																		<>
+<q>IPSec		<a>Internet Protocol Security																<>
+<q>LDAP			<a>Lightweight Directory Access Protocol													<>
+<q>PAP			<a>Password Authentication Protocol															<>
+<q>PEAP			<a>Personal Extensible Authentication Protocol												<>
+<q>POP3			<a>Post Office Protocol 3																	<>
+<q>PPP			<a>Point-to-Point Protocol																	<>
+<q>RDP			<a>Remote Desktop Protocol																	<>
+<q>SFTP			<a>Secure File Transfer Protocol															<>
+<q>SMTP			<a>Simple Mail Transfer Protocol															<>
+<q>SNMP			<a>Simple Network Management Protocol														<>
+<q>SNTP			<a>Simple Network Time Protocol																<>
+<q>TCP			<a>Transmission Control Protocol															<>
+<q>TFTP			<a>Trivial File Transfer Protocol															<>
+<q>TKIP			<a>Temporal Key Integrity Protocol															<>
+<q>UDP			<a>User Datagram Protocol																	<>
+<q>VoIP			<a>Voice over Internet Protocol																<>

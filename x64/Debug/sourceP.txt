@@ -1,0 +1,78 @@
+#76
+<q>7  <a>Echo							<d>TCP, UDP		Echo service																																								<>
+<q>19 <a>CHARGEN						<d>TCP, UDP		Character Generator Protocol, has severe vulnerabilities and thus is rarely used nowadays																					<>
+<q>20 <a>FTP - data						<d>TCP, SCTP	File Transfer Protocol data transfer																																		<>
+<q>21 <a>FTP							<d>TCP, UDP,	SCTP	File Transfer Protocol command control																																<>
+<q>22 <a>SSH / SCP / SFTP				<d>TCP, UDP,	SCTP 	Secure Shell, secure logins, file transfers(scp, sftp), and port forwarding																							<>
+<q>23 <a>Telnet							<d>TCP			Telnet protocol, for unencrypted text communications																														<>
+<q>25 <a>SMTP							<d>TCP			Simple Mail Transfer Protocol, used for email routing between mail servers																									<>
+<q>42 <a>WINS Replication				<d>TCP, UDP		Microsoft Windows Internet Name Service, vulnerable to attacks on a local network																							<>
+<q>43 <a>WHOIS							<d>TCP, UDP		Whois service, provides domain - level information																															<>
+<q>49 <a>TACACS							<d>UDP;			can also use TCP but not necessarily on port 49	Terminal Access Controller Access - Control System, provides remote authentication and related services for network access	<>
+<q>53 <a>DNS							<d>TCP, UDP		Domain Name System name resolver																																			<>
+<q>67 <a>DHCP / BOOTP					<d>UDP			Dynamic Host Configuration Protocol and its predecessor Bootstrap Protocol Server; server port																				<>
+<q>68 <a>DHCP / BOOTP					<d>UDP			Dynamic Host Configuration Protocol and its predecessor Bootstrap Protocol Server; client port																				<>
+<q>69 <a>TFTP							<d>UDP			Trivial File Transfer Protocol																																				<>
+<q>70 <a>Gopher							<d>TCP			Gopher is a communication protocol for distributing, searching, and retrieving documents in Internet Protocol(IP) networks													<>
+<q>79 <a>Finger							<d>TCP			Name / Finger protocol and Finger user information protocol, for retrieving and manipulating user information																<>
+<q>80 <a>HTTP							<d>TCP, UDP,	SCTP	Hypertext Transfer Protocol(HTTP) uses TCP in versions 1.x and 2. HTTP / 3 uses QUIC, a transport protocol on top of UDP											<>
+<q>88 <a>Kerberos						<d>TCP, UDP		Network authentication system																																				<>
+<q>102<a>Microsoft Exchange ISO - TSAP	<d>TCP			Microsoft Exchange ISO Transport Service Access Point(TSAP) Class 0 protocol																								<>
+<q>110<a>POP3							<d>TCP			Post Office Protocol, version 3 (POP3)																																		<>
+<q>113<a>Ident							<d>TCP			Identification Protocol, for identifying the user of a particular TCP connection																							<>
+<q>119<a>NNTP(Usenet)					<d>TCP			Network News Transfer Protocol																																				<>
+<q>123<a>NTP							<d>UDP			Network Time Protocol																																						<>
+<q>135<a>Microsoft RPC EPMAP			<d>TCP, UDP		Microsoft Remote Procedure Call(RPC) Endpoint Mapper(EPMAP) service, for remote system access and management																<>
+<q>137<a>NetBIOS - ns					<d>TCP, UDP		NetBIOS Name Service, used for name registration and resolution																												<>
+<q>138<a>NetBIOS - dgm					<d>TCP, UDP		NetBIOS Datagram Service, used for providing access to shared resources																										<>
+<q>139<a>NetBIOS - ssn					<d>TCP, UDP		NetBIOS Session Service																																						<>
+<q>143<a>IMAP							<d>TCP, UDP		Internet Message Access Protocol(IMAP), management of electronic mail messages on a server																					<>
+<q>161<a>SNMP - agents(unencrypted)		<d>UDP			Simple network management protocol; agents communicate on this port																											<>
+<q>162<a>SNMP - trap(unencrypted)		<d>UDP			Simple network management protocol; listens for asynchronous traps																											<>
+<q>177<a>XDMCP							<d>UDP			X Display Manager Control Protocol																																			<>
+<q>179<a>BGP							<d>TCP			Border Gateway Protocol																																						<>
+<q>194<a>IRC							<d>UDP			Internet Relay Chat																																							<>
+<q>201<a>AppleTalk						<d>TCP, UDP		AppleTalk Routing Maintenance.Trojan horses and computer viruses have used UDP port 201.																					<>
+<q>264<a>BGMP							<d>TCP, UDP		Border Gateway Multicast Protocol																																			<>
+<q>318<a>TSP							<d>TCP, UDP		Time Stamp Protocol																																							<>
+<q>381<a>HP Openview					<d>TCP, UDP		HP performance data collector																																				<>
+<q>383<a>HP Openview					<d>TCP, UDP		HP data alarm manager																																						<>
+<q>389<a>LDAP							<d>TCP, UDP		Lightweight directory access protocol																																		<>
+<q>411<a>(Multiple uses)				<d>TCP, UDP		Direct Connect Hub, Remote MT Protocol																																		<>
+<q>412<a>(Multiple uses) 				<d>TCP, UDP		Direct Connect Client - to - Client, Trap Convention Port																													<>
+<q>427<a>SLP							<d>TCP			Service Location Protocol																																					<>
+<q>443<a>HTTPS(HTTP over SSL)			<d>TCP, UDP,	SCTP	Hypertext Transfer Protocol Secure(HTTPS) uses TCP in versions 1.x and 2. HTTP / 3 uses QUIC, a transport protocol on top of UDP.									<>
+<q>445<a>Microsoft DS SMB				<d>TCP, UDP		Microsoft Directory Services : TCP for Active Directory, Windows shares; UDP for Server Message Block(SMB) file - sharing													<>
+<q>464<a>Kerberos						<d>TCP, UDP		For password settings on Kerberos																																			<>
+<q>465<a>SMTP over TLS / SSL, SSM		<d>TCP			Authenticated SMTP over TLS / SSL(SMTPS), URL Rendezvous Directory for Cisco’s Source Specific Multicast protocol(SSM)														<>
+<q>497<a>Dantz Retrospect				<d>TCP, UDP		A software suite for backing up operating systems																															<>
+<q>500<a>IPSec / ISAKMP / IKE			<d>UDP			Internet Protocol Security / Internet Security Association and Key Management Protocol / Internet Key Exchange																<>
+<q>512<a>rexec							<d>TCP			Remote Process Execution																																					<>
+<q>513<a>rlogin							<d>TCP			The Unix program rlogin allows users to log in on another host using a network.																								<>
+<q>514<a>syslog							<d>UDP			Syslog Protocol, for collecting and organizing all of the log files sent from the various devices on a network																<>
+<q>515<a>LPD / LPR						<d>TCP			Line Printer Daemon protocol, or Line Printer Remote protocol																												<>
+<q>520<a>RIP							<d>UDP			Routing Information Protocol, used to find the optimal path between source and destination networks																			<>
+<q>521<a>RIPng(IPv6)					<d>UDP			Routing Information Protocol next generation, the IPv6 compatible version of RIP																							<>
+<q>540<a>UUCP							<d>TCP			Unix - to - Unix Copy Protocol																																				<>
+<q>548<a>AFP							<d>TCP			Apple Filing Protocol																																						<>
+<q>554<a>RTSP							<d>TCP, UDP		Real Time Streaming Protocol																																				<>
+<q>546<a>DHCPv6							<d>TCP, UDP		Dynamic Host Configuration Protocol version 6. DHCPv6 Clients listen for DHCPv6 messages on UDP port 546.																	<>
+<q>547<a>DHCPv6							<d>TCP, UDP		DHCPv6 Servers and DHCPv6 Relay Agents listen for DHCPv6 messages on UDP port 547.																							<>
+<q>560<a>rmonitor						<d>UDP			Remote Monitor																																								<>
+<q>563<a>NNTP over TLS / SSL			<d>TCP, UDP		Network News Transfer Protocol with encryption and verification																												<>
+<q>587<a>SMTP							<d>TCP			For email message submission via SMTP																																		<>
+<q>591<a>FileMaker						<d>TCP			FileMaker Web Companion, the web publishing technology available in FileMaker versions 4 - 6																				<>
+<q>593<a>Microsoft DCOM					<d>TCP, UDP		Distributed Component Object Model(DCOM)																																	<>
+<q>596<a>SMSD							<d>TCP, UDP		SysMan Station daemon																																						<>
+<q>631<a>IPP							<d>TCP			Internet Printing Protocol																																					<>
+<q>636<a>LDAP over TLS / SSL			<d>TCP, UDP		Lightweight Directory Access Protocol over TLS / SSL																														<>
+<q>639<a>MSDP(PIM)						<d>TCP			Multicast Source Discovery Protocol, which is part of the Protocol Independent Multicast(PIM) family																		<>
+<q>646<a>LDP(MPLS)						<d>TCP, UDP		Label Distribution Protocol, applies to routers capable of Multiprotocol Label Switching(MPLS)																				<>
+<q>691<a>Microsoft Exchange				<d>TCP			Microsoft Exchange Routing																																					<>
+<q>860<a>iSCSI							<d>TCP			Internet Small Computer Systems Interface																																	<>
+<q>873<a>rsync							<d>TCP			The rsync file synchronization protocol efficiently transfers and synchronizes files between devices and networked computers.												<>
+<q>902<a>VMware Server					<d>TCP, UDP		VMware ESXi, a hypervisor																																					<>
+<q>989<a>FTPS							<d>TCP			File Transfer Protocol(data) over TLS / SSL																																	<>
+<q>990<a>FTPS							<d>TCP			File Transfer Protocol(control) over TLS / SSL																																<>
+<q>993<a>IMAP over SSL(IMAPS)			<d>TCP			Internet Message Access Protocol over TLS / SSL																																<>
+<q>995<a>POP3 over SSL(POP3S)			<d>TCP, UDP		Post Office Protocol 3 over TLS / SSL																																		<>

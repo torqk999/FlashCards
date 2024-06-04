@@ -1,0 +1,100 @@
+﻿#99																																																																																																					   	
+<q>802.3		<d>1983 - 06<a>		10BASE5 10 Mbit / s(1.25 MB / s) over thick coax.First edition of the IEEE 802.3 standard.Approved by IEEE in 1983, approved by ANSI in 1984, and published in 1985. Same as Ethernet II(above) except Type field is replaced by Length, and an 802.2 LLC header follows the 802.3 header.Based on the CSMA / CD media access method.												<>
+<q>802.3a		<d>1985 - 11<a>		10BASE2 10 Mbit / s(1.25 MB / s) over thin Coax(a.k.a.thinnet or cheapernet)																																																																										<>
+<q>802.3b		<d>1985 - 09<a>		10BROAD36																																																																																											<>
+<q>802.3c		<d>1985 - 12<a>		10 Mbit / s(1.25 MB / s) repeater specs																																																																																				<>
+<q>802.3d		<d>1987 - 12<a>		Fiber - optic inter - repeater link																																																																																					<>
+<q>802.3e		<d>1987 - 06<a>		1BASE5 or StarLAN, first use of(voice - grade) twisted pair cabling, 1 Mbit / s, maximum reach of 250 to 500 m																																																																		<>
+<q>802.3h		<d>1990 - 09<a>		10 Mbit / s layer management, DTEs																																																																																					<>
+<q>802.3i		<d>1990 - 09<a>		10BASE - T 10 Mbit / s(1.25 MB / s) over twisted pair																																																																																<>
+<q>802.3j		<d>1992 - 09<a>		10BASE - F 10 Mbit / s(1.25 MB / s) over optical fiber																																																																																<>
+<q>802.3k		<d>1992 - 09<a>		10 Mbit / s layer management, repeaters																																																																																				<>
+<q>802.3m		<d>1995 - 09<a>		Maintenance																																																																																											<>
+<q>802.3n		<d>1995 - 09<a>		Maintenance																																																																																											<>
+<q>802.3q		<d>1993 - 06<a>		GDMO(ISO / IEC 10165 - 4) format for Layer Managed Objects																																																																															<>
+<q>802.3r		<d>1996 - 07<a>		10BASE5 Medium Attachment Unit PICS																																																																																					<>
+<q>802.3s		<d>1995 - 09<a>		Maintenance																																																																																											<>
+<q>802.3t		<d>1995 - 06<a>		120 Ω informative annex for 10BASE - T																																																																																				<>
+<q>802.3u		<d>1995 - 06<a>		100BASE - TX, 100BASE - T4, 100BASE - FX Fast Ethernet at 100 Mbit / s(12.5 MB / s) with autonegotiation																																																																			<>
+<q>802.v		<d>1995 - 12<a>		150 Ω informative annex for 10BASE - T																																																																																				<>
+<q>802.3x		<d>1997 - 03<a>		Full Duplex and flow control; also incorporates DIX framing, so there's no longer a DIX/802.3 split																																																																					<>
+<q>802.3y		<d>1997 - 03<a>		100BASE - T2 100 Mbit / s(12.5 MB / s) over voice - grade twisted pair																																																																												<>
+<q>802.3z		<d>1998 - 06<a>		1000BASE - X Gbit / s Ethernet over optical fiber at 1 Gbit / s(125 MB / s)																																																																											<>
+<q>802.3(aa)	<d>1998 - 06<a>		A revision of base standard incorporating the above amendments and errata																																																																											<>
+<q>802.3ab		<d>1999 - 06<a>		1000BASE - T Gbit / s Ethernet over twisted pair at 1 Gbit / s(125 MB / s)																																																																											<>
+<q>802.3ac		<d>1998 - 09<a>		Max frame size extended to 1522 bytes(to allow 'Q - tag') The Q - tag includes 802.1Q VLAN information and 802.1p priority information.																																																												<>
+<q>802.3ad		<d>2000 - 03<a>		Link aggregation for parallel links, since moved to IEEE 802.1AX																																																																													<>
+<q>802.3(ag)	<d>2002 - 01<a>		A revision of base standard incorporating the three prior amendments and errata																																																																										<>
+<q>802.3ae		<d>2002 - 06<a>		10 Gigabit Ethernet over fiber; 10GBASE - SR, 10GBASE - LR, 10GBASE - ER, 10GBASE - SW, 10GBASE - LW, 10GBASE - EW																																																																	<>
+<q>802.3af		<d>2003 - 06<a>		Power over Ethernet(15.4 W)																																																																																							<>
+<q>802.3ah		<d>2004 - 06<a>		Ethernet in the First Mile																																																																																							<>
+<q>802.3ak		<d>2004 - 02<a>		10GBASE - CX4 10 Gbit / s(1,250 MB / s) Ethernet over twinaxial cables																																																																												<>
+<q>802.3(am)	<d>2005 - 06<a>		A revision of base standard incorporating the four prior amendments and errata.																																																																										<>
+<q>802.3an		<d>2006 - 06<a>		10GBASE - T 10 Gbit / s(1,250 MB / s) Ethernet over unshielded twisted pair(UTP)																																																																									<>
+<q>802.3ap		<d>2007 - 03<a>		Backplane Ethernet(1 and 10 Gbit / s(125 and 1,250 MB / s) over printed circuit boards)																																																																								<>
+<q>802.3aq		<d>2006 - 09<a>		10GBASE - LRM 10 Gbit / s(1,250 MB / s) Ethernet over multimode fiber																																																																												<>
+<q>P802.3ar		<d>Cancelled<a>		Congestion management(withdrawn)																																																																																					<>
+<q>802.3as		<d>2006 - 09<a>		Frame expansion																																																																																										<>
+<q>802.3at		<d>2009 - 09<a>		Power over Ethernet enhancements(25.5 W)																																																																																			<>
+<q>802.3au		<d>2006 - 06<a>		Isolation requirements for Power over Ethernet(802.3 - 2005 / Cor 1)																																																																												<>
+<q>802.3av		<d>2009 - 09<a>		10 Gbit / s EPON																																																																																									<>
+<q>802.3aw		<d>2007 - 06<a>		Fixed an equation in the publication of 10GBASE - T(released as 802.3 - 2005 / Cor 2)																																																																								<>
+<q>802.3ax		<d>2008 - 11<a>		Link aggregation – moved to and approved as 802.1AX																																																																																	<>
+<q>802.3(ay)	<d>2008 - 12<a>		A revision of base standard incorporating the 802.3an / ap / aq / as amendments, two corrigenda and errata.																																																																			<>
+<q>802.3az		<d>2010 - 09<a>		Energy - Efficient Ethernet																																																																																							<>
+<q>802.3ba		<d>2010 - 06<a>		40 Gbit / s and 100 Gbit / s Ethernet. 40 Gbit / s over 1 m backplane, 10 m Cu cable assembly(4×25 Gbit or 10×10 Gbit lanes) and 100 m of MMF and 100 Gbit / s up to 10 m of Cu cable assembly, 100 m of MMF or 40 km of SMF respectively																																			<>
+<q>802.3(bb)	<d>2008 - 12<a>		Increase Pause Reaction Delay timings which are insufficient for 10 Gbit / s(workgroup name was 802.3bb)																																																																			<>
+<q>802.3bc		<d>2009 - 09<a>		Move and update Ethernet related TLVs(type, length, values), previously specified in Annex F of IEEE 802.1AB(LLDP) to 802.3.																																																														<>
+<q>802.3bd		<d>2011 - 06<a>		Priority - based Flow Control.An amendment by the IEEE 802.1 Data Center Bridging Task Group(802.1Qbb) to develop an amendment to IEEE Std 802.3 to add a MAC Control Frame to support IEEE 802.1Qbb Priority - based Flow Control.																																					<>
+<q>802.3.1		<d>2011 - 05<a>		(802.3be) MIB definitions for Ethernet.It consolidates the Ethernet related MIBs present in Annex 30A & B, various IETF RFCs, and 802.1AB annex F into one master document with a machine readable extract. (workgroup name was P802.3be)																																			<>
+<q>802.3bf		<d>2011 - 05<a>		Provide an accurate indication of the transmission and reception initiation times of certain packets as required to support IEEE P802.1AS.																																																											<>
+<q>802.3bg		<d>2011 - 03<a>		Provide a 40 Gbit / s PMD which is optically compatible with existing carrier SMF 40 Gbit / s client interfaces(OTU3 / STM - 256 / OC - 768 / 40G POS).																																																								<>
+<q>802.3(bh)	<d>2012 - 08<a>		A revision of base standard incorporating the 802.3at / av / az / ba / bc / bd / bf / bg amendments, a corrigenda and errata.																																																														<>
+<q>802.3bj		<d>2014 - 06<a>		Define a 4 - lane 100 Gbit / s backplane PHY for operation over links consistent with copper traces on 'improved FR - 4' (as defined by IEEE P802.3ap or better materials to be defined by the Task Force) with lengths up to at least 1 m and a 4 - lane 100 Gbit / s PHY for operation over links consistent with copper twinaxial cables with lengths up to at least 5 m.		<>
+<q>802.3bk		<d>2013 - 08<a>		This amendment to IEEE Std 802.3 defines the physical layer specifications and management parameters for EPON operation on point - to - multipoint passive optical networks supporting extended power budget classes of PX30, PX40, PRX40, and PR40 PMDs.																															<>
+<q>802.3bm		<d>2015 - 02<a>		100G / 40G Ethernet for optical fiber																																																																																				<>
+<q>802.3bn		<d>2016 - 09<a>		10G - EPON and 10GPASS - XR, passive optical networks over coax																																																																														<>
+<q>802.3bp		<d>2016 - 06<a>		[2]	1000BASE - T1 – Gigabit Ethernet over a single twisted pair, automotive& industrial environments																																																																				<>
+<q>802.3bq		<d>2016 - 06<a>		[3]	25GBASE - T / 40GBASE - T Ethernet for 4 - pair balanced twisted pair cabling with 2 connectors over 30 m distances																																																																<>
+<q>802.3br		<d>2016 - 06<a>		Specification and Management Parameters for Interspersing Express Traffic																																																																											<>
+<q>802.3bs		<d>2017 - 12<a>		200GbE(200 Gbit / s) over single - mode fiber and 400GbE(400 Gbit / s) over optical physical media																																																																					<>
+<q>802.3bt		<d>2018 - 09<a>		Third generation Power over Ethernet with up to 100 W using all 4 pairs balanced twisted pair cabling(4PPoE), including 10GBASE - T, lower standby power and specific enhancements to support IoT applications(e.g.lighting, sensors, building automation).																															<>
+<q>802.3bu		<d>2016 - 12<a>		Power over Data Lines(PoDL) for single twisted pair Ethernet(100BASE - T1)																																																																											<>
+<q>802.3bv		<d>2017 - 02<a>		Gigabit Ethernet over plastic optical fiber(POF)																																																																																	<>
+<q>802.3bw		<d>2015 - 10<a>		[4]	100BASE - T1 – 100 Mbit / s Ethernet over a single twisted pair for automotive applications																																																																						<>
+<q>802.3(bx)	<d>2015 - 09<a>		a new consolidated revision of the 802.3 standard including amendments 802.3bk / bj / bm																																																																							<>
+<q>802.3by		<d>2016 - 06<a>		[5]	Optical fiber, twinax and backplane 25 Gigabit Ethernet[6]																																																																														<>
+<q>802.3bz		<d>2016 - 09<a>		[7]	2.5GBASE - T and 5GBASE - T – 2.5 Gigabit and 5 Gigabit Ethernet over Cat - 5e / Cat - 6 twisted pair																																																																			<>
+<q>802.3ca		<d>2020 - 06<a>		25G - EPON and 50G - EPON – Downstream / Upstream rates of 25 / 10, 25 / 25, 50 / 10, 50 / 25, 50 / 50 Gbit / s over Ethernet Passive Optical Networks																																																								<>
+<q>802.3cb		<d>2018 - 09<a>		2.5 Gbit / s and 5 Gbit / s Operation over Backplane																																																																																<>
+<q>802.3cc		<d>2017 - 12<a>		25 Gbit / s over Single Mode Fiber																																																																																					<>
+<q>802.3cd		<d>2018 - 12<a>		Media Access Control Parameters for 50 Gbit / s and Physical Layers and Management Parameters for 50, 100, and 200 Gbit / s Operation																																																												<>
+<q>802.3ce		<d>2017 - 03<a>		Multilane Timestamping																																																																																								<>
+<q>802.3.2(cf)	<d>2019 - 03<a>		YANG Data Model Definitions																																																																																							<>
+<q>802.3cg		<d>2019 - 11<a>		10BASE - T1L and 10BASE - T1S – 10 Mbit / s Single twisted pair Ethernet																																																																											<>
+<q>802.3ch		<d>2020 - 06<a>		MultiGigBASE - T1 Automotive Ethernet(2.5, 5, 10 Gbit / s) over 15 m with optional PoDL																																																																								<>
+<q>802.3(cj)	<d>2008 - 15<a>		maintenance, merge recent amendments bn / bp / bq / br / bs / bu / bv / bw / by / bz / cc / ce																																																																						<>
+<q>802.3ck		<d>2022 - 09<a>		100, 200, and 400 Gbit / s Ethernet using 100 Gbit / s lanes, chaired by Beth Kochuparambil[8]																																																																						<>
+<q>802.3cm		<d>2020 - 01<a>		400 Gbit / s over multimode fiber(four and eight pairs, 100 m)																																																																														<>
+<q>802.3cn		<d>2019 - 11<a>		50 Gbit / s(40 km), 100 Gbit / s(80 km), 200 Gbit / s(four λ, 40 km), and 400 Gbit / s(eight λ, 40 km and single λ, 80 km over DWDM) over Single - Mode Fiber and DWDM																																																				<>
+<q>802.3cp		<d>2021 - 06<a>		10 / 25 / 50 Gbit / s single - strand optical access with at least 10 / 20 / 40 km reach, chaired by Frank Effenberger[8]																																																															<>
+<q>802.3cq		<d>2020 - 01<a>		Power over Ethernet over 2 pairs(maintenance)																																																																																		<>
+<q>802.3cr		<d>2021 - 02<a>		Isolation(maintenance)																																																																																								<>
+<q>802.3cs		<d>2022 - 09<a>		'Super - PON' – increased - reach, 10 Gbit / s optical access with at least 50 km reach and 1:64 split ratio per wavelength pair, 16 wavelength pairs, chaired by Claudio DeSanti[8]																																																<>
+<q>802.3ct		<d>2021 - 06<a>		100 Gbit / s over DWDM systems(80 km reach using coherent modulation), chaired by John D'Ambrosia[8]																																																																				<>
+<q>802.3cu		<d>2021 - 02<a>		100 Gbit / s and 400 Gbit / s over SMF using 100 Gbit / s lanes																																																																														<>
+<q>802.3cv		<d>2021 - 05<a>		Power over Ethernet maintenance, chaired by Chad Jones[8]																																																																															<>
+<q>802.3cw(TBD)	<d>			<a>		400 Gbit / s over DWDM Systems – scheduled for fall 2024, chaired by John D'Ambrosia[8]																																																																								<>
+<q>802.3cx		<d>2023 - 03<a>		Improved PTP timestamping accuracy, chaired by Steve Gorshe[8]																																																																														<>
+<q>802.3cy		<d>2023 - 06<a>		MultiGigBASE - T1 25 Gbit / s electrical automotive Ethernet,[9] chaired by Steve Carlson[8]																																																																						<>
+<q>802.3cz		<d>2023 - 03<a>		Multi - gigabit optical automotive Ethernet, chaired by Bob Grow[8]																																																																													<>
+<q>802.3da(TBD)	<d>			<a>		10BASE - T1S 10 Mb / s operation over single balanced pair multidrop segments, extended length up to 50 m – scheduled for mid 2025, chaired by Chad Jones[8]																																																						<>
+<q>802.3db		<d>2022 - 09<a>		100 Gbit / s, 200 Gbit / s, and 400 Gbit / s operation over optical fiber using 100 Gbit / s Signaling, chaired by Robert Lingle[8]																																																													<>
+<q>802.3(dc)	<d>2022 - 07<a>		maintenance, merge recent amendments bt / ca / cb / cd / cg / ch / cm / cn / cp / cq / cr / ct / cu / cv, chaired by Adam Healey[8]																																																													<>
+<q>802.3dd		<d>2022 - 06<a>		Power over Data Lines of single - pair Ethernet maintenance, chaired by George Zimmerman[8]																																																																							<>
+<q>802.3de		<d>2022 - 09<a>		Time synchronization for point - to - point single - pair Ethernet, chaired by George Zimmerman																																																																						<>
+<q>802.3df		<d>2024 - 02<a>		200 Gb / s, 400 Gb / s and 800 Gb / s using 100 Gbit / s lanes, chaired by John D’Ambrosia																																																																							<>
+<q>802.3dg(TBD)	<d>			<a>		100BASE - T1 and 1000BASE - T1 extended length to 500 m – scheduled for mid 2025, chaired by George Zimmerman																																																																		<>
+<q>802.3dh		<d>canceled	<a>		Multi - gigabit automotive Ethernet over plastic optical fiber, chaired by Yuji Watanabe																																																																							<>
+<q>802.3dj(TBD)	<d>			<a>		200 Gb / s, 400 Gb / s, 800 Gb / s and 1.6 Tbit / s using 200 Gbit / s lanes – scheduled for spring 2026, chaired by John D'Ambrosia																																																												<>
+<q>802.3dk(TBD)	<d>			<a>		Greater than 50 Gbit / s bidirectional optical access, chaired by Yuanqiu Luo																																																																										<>

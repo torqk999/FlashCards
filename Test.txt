@@ -1,0 +1,4 @@
+<d:Detail> <a:Answer><f:Flavour>
+<*q>What0 <d>The0 <f>Actual0 <a>Heck0 </>
+<*q>What1 <d>The1 <f>Actual1 <a>Heck1 </>
+<*q>What2 <d>The2 <f>Actual2 <a>Heck2 </>

@@ -1,0 +1,232 @@
+
+<>CompTIA A+ Core 1 (220-1101) Acronym List
+
+<>The following is a list of acronyms that appear on the CompTIA At
+
+<>Core 1 (220-1101) exam. Candidates are encouraged to review the complete
+<>list and attain a working knowledge of all listed acronyms as part of a
+<>comprehensive exam preparation program.
+
+<>Acronym	Definition
+#219
+<q>AAA			<a>Authentication, Authorization, and Accounting													<>							
+<q>AC			<a>Alternating Current																				<>
+<q>ACL			<a>Access Control List																				<>
+<q>ADF			<a>Automatic Document Feeder																		<>
+<q>AES			<a>Advanced Encryption Standard																		<>
+<q>AP			<a>Access Point																						<>
+<q>APFS			<a>Apple File System																				<>
+<q>APIPA		<a>Automatic Private Internet Protocol Addressing													<>							
+<q>APK			<a>Android Package																					<>
+<q>ARM			<a>Advanced RISC [Reduced Instruction Set Computer] Machine											<>						
+<q>ARP			<a>Address Resolution Protocol																		<>
+<q>ATA			<a>Advanced Technology Attachment																	<>
+<q>ATM			<a>Asynchronous Transfer Mode																		<>
+<q>ATX			<a>Advanced Technology Extended																		<>
+<q>AUP			<a>Acceptable Use Policy Basic Input/Output System													<>						
+<q>BIOS			<a>Blue Screen of Death																				<>
+<q>BSOD			<a>Bring Your Own Device																			<>
+<q>BYOD			<a>Computer-aided Design																			<>
+<q>CAD			<a>Completely Automated Public Turing Test															<>
+<q>CAPTCHA		<a>to Tell Computers and Humans Apart																<>
+<q>CD			<a>Compact Disc																						<>
+<q>CDFS			<a>Compact Disc File System																			<>
+<q>CDMA			<a>Code-Division Multiple Access																	<>
+<q>CERT			<a>Computer Emergency Response Team																	<>
+<q>CIFS			<a>Common Internet File System																		<>
+<q>CMD			<a>Command Prompt																					<>
+<q>CMOS			<a>Complementary Metal-Oxide Semiconductor															<>						
+<q>CPU			<a>Central Processing Unit																			<>
+<q>CRL			<a>Certificate Revocation List																		<>
+<q>DC			<a>Direct Current																					<>
+<q>DDoS			<a>Distributed Denial of Service																	<>
+<q>DDR			<a>Double Data Rate																					<>
+<q>DHCP			<a>Dynamic Host Configuration Protocol																<>
+<q>DIMM			<a>Dual Inline Memory Module																		<>
+<q>DKIM			<a>Domainkeys Identified Mail																		<>
+<q>DMA			<a>Direct Memory Access																				<>
+<q>DMARC		<a>Domain-based Message Authentication, Reporting, and Conformance									<>
+<q>DNS			<a>Domain Name System																				<>
+<q>DoS			<a>Denial of Service																				<>
+<q>DRAM			<a>Dynamic Random-Access Memory																		<>
+<q>DRM			<a>Digital Rights Management																		<>
+<q>DSL			<a>Digital Subscriber Line																			<>
+<q>DVI			<a>Digital Visual Interface																			<>
+<q>DVI-D		<a>Digital Visual Interface-Digital																	<>
+<q>ECC			<a>Error Correcting Code																			<>
+<q>EFS			<a>Encrypting File System																			<>
+<q>EMI			<a>Electromagnetic Interference																		<>
+<q>EOL			<a>End-of-Life																						<>
+<q>eSATA		<a>External Serial Advanced Technology Attachment													<>
+<q>ESD			<a>Electrostatic Discharge																			<>
+<q>EULA			<a>End-User License Agreement																		<>
+<q>exFAT		<a>Extensible File Allocation Table																	<>
+<q>ext			<a>Extended File System																				<>
+<q>FAT			<a>File Allocation Table																			<>
+<q>FAT12		<a>12-bit File Allocation Table																		<>
+<q>FAT16		<a>16-bit File Allocation Table																		<>
+<q>FAT32		<a>32-bit File Allocation Table																		<>
+<q>FSB			<a>Front-Side Bus																					<>
+<q>FTP			<a>File Transfer Protocol																			<>
+<q>GFS			<a>Grandfather-Father-Son																			<>
+<q>GPS			<a>Global Positioning System																		<>
+<q>GPT			<a>GUID [Globally Unique Identifier] Partition Table												<>
+<q>GPU			<a>Graphics Processing Unit																			<>
+<q>GSM			<a>Global System for Mobile Communications															<>
+<q>GUI			<a>Graphical User Interface																			<>
+<q>GUID			<a>Globally Unique Identifier																		<>
+<q>HAL			<a>Hardware Abstraction Layer																		<>
+<q>HAV			<a>Hardware-assisted Virtualization																	<>
+<q>HCL			<a>Hardware Compatibility List																		<>
+<q>HDCP			<a>High-bandwidth Digital Content Protection														<>
+<q>HDD			<a>Hard Disk Drive																					<>
+<q>HDMI			<a>High-Definition Multimedia Interface																<>
+<q>HSM			<a>Hardware Security Module																			<>
+<q>HTML			<a>Hypertext Markup Language																		<>
+<q>HTTP			<a>Hypertext Transfer Protocol																		<>
+<q>HTTPS		<a>Hypertext Transfer Protocol Secure																<>
+<q>I/O			<a>Input/Output																						<>
+<q>laaS			<a>Infrastructure as a Service																		<>
+<q>ICR			<a>Intelligent Character Recognition																<>
+<q>IDE			<a>Integrated Drive Electronics																		<>
+<q>IDS			<a>Intrusion Detection System																		<>
+<q>IEEE			<a>Institute of Electrical and Electronics Engineers												<>
+<q>IMAP			<a>Internet Mail Access Protocol																	<>
+<q>IOPS			<a>Input/Output Operations Per Second																<>
+<q>loT			<a>Internet of Things																				<>
+<q>IP			<a>Internet Protocol																				<>
+<q>IPS			<a>Intrusion Prevention System																		<>
+<q>IPS			<a>In-plane Switching																				<>
+<q>IPSec		<a>Internet Protocol Security																		<>
+<q>IR			<a>Infrared																							<>
+<q>IrDA			<a>Infrared Data Association																		<>
+<q>IRP			<a>Incident Response Plan																			<>
+<q>ISO			<a>International Organization for Standardization													<>
+<q>ISP			<a>Internet Service Provider																		<>
+<q>ITX			<a>Information Technology eXtended																	<>
+<q>KB			<a>Knowledge Base																					<>
+<q>KVM			<a>Keyboard-Video-Mouse																				<>
+<q>LAN			<a>Local Area Network																				<>
+<q>Lc			<a>Lucent Connector																					<>
+<q>LCD			<a>Liquid Crystal Display																			<>
+<q>LDAP			<a>Lightweight Directory Access Protocol															<>
+<q>LED			<a>Light-emitting Diode																				<>
+<q>MAC			<a>Media Access Control/Mandatory Access Control													<>
+<q>MAM			<a>Mobile Application Management																	<>
+<q>MAN			<a>Metropolitan Area Network																		<>
+<q>MBR			<a>Master Boot Record																				<>
+<q>MDM			<a>Mobile Device Management																			<>
+<q>MFA			<a>Multifactor Authentication																		<>
+<q>MFD			<a>Multifunction Device																				<>
+<q>MFP			<a>Multifunction Printer																			<>
+<q>MMC			<a>Microsoft Management Console																		<>
+<q>MOU			<a>Memorandum of Understanding																		<>
+<q>MSDS			<a>Material Safety Data Sheet																		<>
+<q>MSRA			<a>Microsoft Remote Assistance																		<>
+<q>MX			<a>Mail Exchange																					<>
+<q>NAC			<a>Network Access Control																			<>
+<q>NAT			<a>Network Address Translation																		<>
+<q>NDA			<a>Non-disclosure Agreement																			<>
+<q>NetBIOS		<a>Networked Basic Input/Output System																<>
+<q>NetBT		<a>NetBIOS over TCP/IP [Transmission Control														<>
+<q>NFC			<a>Protocol/Internet Protocol]																		<>
+<q>NFS			<a>Near-field Communication																			<>
+<q>NIC			<a>Network File System																				<>
+<q>NTFS			<a>Network Interface Card																			<>
+<q>NVMe			<a>New Technology File System																		<>
+<q>OCR			<a>Non-volatile Memory Express																		<>
+<q>OLED			<a>Optical Character Recognition																	<>
+<q>ONT			<a>Organic Light-emitting Diode																		<>
+<q>Os			<a>Optical Network Terminal																			<>
+<q>PaaS			<a>Operating System																					<>
+<q>PAN			<a>Platform as a Service																			<>
+<q>PC			<a>Personal Area Network																			<>
+<q>PCle			<a>Personal Computer																				<>
+<q>PCL			<a>Peripheral Component Interconnect Express														<>
+<q>PE			<a>Printer Command Language																			<>
+<q>Pll			<a>Preinstallation Environment																		<>
+<q>PIN			<a>Personally Identifiable Information																<>
+<q>PK			<a>Personal Identification Number																	<>
+<q>PoE			<a>Public Key Infrastructure																		<>
+<q>POP3			<a>Power over Ethernet																				<>
+<q>POST			<a>Post Office Protocol 3																			<>
+<q>PPP			<a>Power-on Self-Test																				<>
+<q>PRL			<a>Point-to-Point Protocol																			<>
+<q>PSU			<a>Preferred Roaming List																			<>
+<q>PXE			<a>Power Supply Unit																				<>
+<q>RADIUS		<a>Preboot Execution Environment																	<>
+<q>RAID			<a>Remote Authentication Dial-in User Service														<>
+<q>RAM			<a>Redundant Array of Independent (or Inexpensive) Disks											<>
+<q>RDP			<a>Random-access Memory																				<>
+<q>RF			<a>Remote Desktop Protocol																			<>
+<q>RFI			<a>Radio Frequency																					<>
+<q>RFID			<a>Radio-Frequency Interference																		<>
+<q>RJ11			<a>Radio-Frequency Identification																	<>
+<q>RJ45			<a>Registered Jack Function 11																		<>
+<q>RMM			<a>Registered Jack Function 45																		<>
+<q>RTO			<a>Remote Monitoring and Management																	<>
+<q>SaaS			<a>Recovery Time Objective																			<>
+<q>SAN			<a>Software as a Service																			<>
+<q>SAS			<a>Storage Area Network																				<>
+<q>SATA			<a>Serial Attached SCSI [Small Computer System Interface] / Serial Advanced Technology Attachment	<>
+<q>sc			<a>Subscriber Connector																				<>
+<q>SCADA		<a>Supervisory Control and Data Acquisition															<>
+<q>SCP			<a>Secure Copy Protection																			<>
+<q>Sscsl		<a>Small Computer System Interface																	<>
+<q>SDN			<a>Software-defined Networking																		<>
+<q>SFTP			<a>Secure File Transfer Protocol																	<>
+<q>SIM			<a>Subscriber Identity Module																		<>
+<q>SIMM			<a>Single Inline Memory Module																		<>
+<q>S.M.A.R.T.	<a>Self-monitoring Analysis and Reporting															<>	
+<q>SMB			<a>Server Message Block																				<>
+<q>SMS			<a>Short Message Service																			<>
+<q>SMTP			<a>Simple Mail Transfer Protocol																	<>
+<q>SNMP			<a>Simple Network Management Protocol																<>
+<q>SNTP			<a>Simple Network Time Protocol																		<>
+<q>SODIMM		<a>Small Outline Dual Inline Memory Module															<>
+<q>SOHO			<a>Small Office/Home Office																			<>
+<q>SPF			<a>Sender Policy Framework																			<>
+<q>SQL			<a>Structured Query Language																		<>
+<q>SRAM			<a>Static Random-access Memory																		<>
+<q>ssD			<a>Solid-State Drive																				<>
+<q>SSH			<a>Secure Shell																						<>
+<q>SSID			<a>Service Set Identifier																			<>
+<q>SSL			<a>Secure Sockets Layer																				<>
+<q>sso			<a>Single Sign-on																					<>
+<q>ST			<a>Straight Tip																						<>
+<q>STP			<a>Shielded Twisted Pair																			<>
+<q>TACACS		<a>Terminal Access Controller Access-Control System													<>
+<q>XSS			<a>Cross-site Scripting																				<>
+<q>TCP			<a>Transmission Control Protocol																	<>
+<q>TCP/IP		<a>Transmission Control Protocol/Internet Protocol													<>
+<q>TFTP			<a>Trivial File Transfer Protocol																	<>
+<q>TKIP			<a>Temporal Key Integrity Protocol																	<>
+<q>TLS			<a>Transport Layer Security																			<>
+<q>TN			<a>Twisted Nematic																					<>
+<q>TPM			<a>Trusted Platform Module																			<>
+<q>UAC			<a>User Account Control																				<>
+<q>UDP			<a>User Datagram Protocol																			<>
+<q>UEFI			<a>Unified Extensible Firmware Interface															<>
+<q>UNC			<a>Universal Naming Convention																		<>
+<q>UPnP			<a>Universal Plug and Play																			<>
+<q>UPS			<a>Uninterruptible Power SupplyTechnology															<>
+<q>USB			<a>Universal Serial Bus																				<>
+<q>UTM			<a>Unified Threat Management																		<>
+<q>UTP			<a>Unshielded Twisted Pair																			<>
+<q>VA			<a>Vertical Alignment																				<>
+<q>VDI			<a>Virtual Desktop Infrastructure																	<>
+<q>VGA			<a>Video Graphics Array																				<>
+<q>VLAN			<a>Virtual LAN [Local Area Network]																	<>
+<q>VM			<a>Virtual Machine																					<>
+<q>VNC			<a>Virtual Network Computer																			<>
+<q>VoIP			<a>Voice over Internet Protocol																		<>
+<q>VPN			<a>Virtual Private Network																			<>
+<q>VRAM			<a>Video Random-access Memory																		<>
+<q>WAN			<a>Wide Area Network																				<>
+<q>WEP			<a>Wired Equivalent Privacy																			<>
+<q>WISP			<a>Wireless Internet Service Provider																<>
+<q>WLAN			<a>Wireless LAN [Local Area Network]																<>
+<q>WMN			<a>Wireless Mesh Network																			<>
+<q>WPA			<a>WiFi Protected Access																			<>
+<q>WWAN			<a>Wireless Wide Area Network 																		<>
+
