@@ -47,13 +47,13 @@
 
 typedef enum {
 	RANDOM = 0,
-	DESCRIPTONS = 1,
-	FOCUS = 2,
-	REVERSE = 3,
-	TRANSFER = 4,
-	QUIT = 5
+	FOCUS = 1,
+	REVERSE = 2,
+	PRINT = 3,
+	MASK = 4,
+	TRANSFER = 5,
+	QUIT = 6
 } OPTION;
-
 
 
 void transfer();
@@ -157,64 +157,68 @@ int input_dec() {
 	return output;
 }
 
-int input_cmd() {
-
-	char flush = ' ';
+void input_cmd() {
 
 	Option_GetEvent(getchar());
-	while (flush == '\n')
-		flush = getchar();
+}
 
-	return 1;
+void cmd_info() {
+
+	for (int i = 0; i < TOGGLE_CNT; i++) {
+		printf("[ %s (%c)%s ]", options[i]._name, options[i]._char, options[i]._type ? "" : (":%s", options[i]._state ? ": true" : ": false"));
+	}
+
+	printf("\n");
+
+	for (int i = TOGGLE_CNT; i < OPT_CNT; i++) {
+		printf("[ %s (%c) ]", options[i]._name, options[i]._char);
+	}
+
+	printf("\n");
 }
 
 
-
 void operation() {
-	
-	int skip = 1;
 
 	IndexArray* targetArray;
 
 	while (1)
 	{
-		skip = !skip;
-		if (skip)
-			continue;
-
 		targetArray = Option_State(FOCUS) ? &focus : &list;
 
-		index = IndexArray_Current(targetArray, Option_State(RANDOM));
+		cmd_info();
 
-		for (int i = 0; i < TOGGLE_CNT; i++) {
-			printf("[ %s (%c)%s ]", options[i]._name, options[i]._char, options[i]._type ? "" : (":%s", options[i]._state ? ": true" : ": false"));
+		if (targetArray->_count < 1) {
+			printf("No elements in this list!\n");
 		}
-		printf("\n");
-		for (int i = TOGGLE_CNT; i < OPT_CNT; i++) {
-			printf("[ %s (%c) ]", options[i]._name, options[i]._char);
+
+		else {
+
+			index = IndexArray_Current(targetArray, Option_State(RANDOM));
+
+			printf("[COUNTER] [%d/%d]", targetArray->_current, targetArray->_count);
+
+			DEBUGx("[INDEX] [%d]\n", index);
+			printf("\n");
+
+			// Question
+			Divs_PrintHeader(0, 1);
+			printf("\n");
+			Divs_PrintInfo(index, -1, 1);
+
+			input_cmd();
+
+			// Answer
+			Divs_PrintHeaders(1, 1);
+			printf("\n");
+			Divs_PrintInfo(index, 1, 1);
 		}
-		printf("\n[COUNTER] [%d/%d]", targetArray->_current, targetArray->_count);
 
-		DEBUGx("[INDEX] [%d]\n", index);
-		printf("\n");
+		input_cmd();
 
-		// Question
-		Divs_PrintHeader(0, 1);
-		printf("\n");
-		Divs_PrintInfo(index, -1, 1);
-
-		if (!input_cmd())
-			break;
-		
-		// Answer
-		Divs_PrintHeaders(1, 1);
-		printf("\n");
-		Divs_PrintInfo(index, 1, 1);
-
-		if (!input_cmd())
-			break;
-
-		IndexArray_Advance(targetArray);
+		Option_State(REVERSE) ? 
+			IndexArray_Reverse(targetArray) :
+			IndexArray_Advance(targetArray);
 
 		// Screen flush
 		for (int i = 0; i < CLS_SIZE; i++)
