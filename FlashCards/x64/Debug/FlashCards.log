@@ -1,13 +1,7 @@
 ﻿  FlashCards.c
-C:\Repos\FlashCards\FlashCards.c(41,1): warning C4005: 'DEBUG': macro redefinition
-  C:\Repos\FlashCards\FlashCards.c(37,1):
-  see previous definition of 'DEBUG'
-  
-C:\Repos\FlashCards\FlashCards.c(43,1): warning C4005: 'DEBUGx': macro redefinition
-  C:\Repos\FlashCards\FlashCards.c(38,1):
-  see previous definition of 'DEBUGx'
-  
-C:\Repos\FlashCards\FlashCards.c(115,3): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
-C:\Repos\FlashCards\FlashCards.c(139,13): warning C4013: 'input_dec' undefined; assuming extern returning int
-C:\Repos\FlashCards\FlashCards.c(143,8): warning C4552: '>>': result of expression not used
+C:\Repos\FlashCards\FlashCards.c(60,10): warning C4005: 'DEBUG': macro redefinition
+C:\Repos\FlashCards\FlashCards.c(62,11): warning C4005: 'DEBUGx': macro redefinition
+C:\Repos\FlashCards\FlashCards.c(134,3): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Repos\FlashCards\FlashCards.c(158,13): warning C4013: 'input_dec' undefined; assuming extern returning int
+C:\Repos\FlashCards\FlashCards.c(162,8): warning C4552: '>>': result of expression not used
   FlashCards.vcxproj -> C:\Repos\FlashCards\x64\Debug\FlashCards.exe

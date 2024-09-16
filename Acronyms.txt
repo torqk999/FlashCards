@@ -13,27 +13,32 @@ EDITATIONS - Author: TORQK
  - various other related acronyms appended
 
 Acronym				Definition
-<a:Answer#64>
-<*q>AAA			<a>Authentication, Authorization, and Accounting								</>							
+<q:Acronym#10><a:Answer#32>
+
+<*q>AAA			<a>Authentication, Authorization, and Accounting								</>			
 <*q>AC			<a>Alternating Current															</>
+<*q>ACE			<a>Access control entries														</>
 <*q>ACL			<a>Access Control List															</>
 <*q>ADF			<a>Automatic Document Feeder													</>
 <*q>ADUC		<a>Active Directory Users & Computers											</>
 <*q>AES			<a>Advanced Encryption Standard													</>
 <*q>AP			<a>Access Point																	</>
 <*q>APFS		<a>Apple File System															</>							
+<*q>API			<a>Application Program Interface												</>
 <*q>APK			<a>Android Package																</>
 <*q>ARM			<a>Advanced RISC [Reduced Instruction Set Computer] Machine						</>						
 <*q>ATA			<a>Advanced Technology Attachment												</>
 <*q>ATM			<a>Asynchronous Transfer Mode													</>
 <*q>ATX			<a>Advanced Technology Extended													</>
 <*q>AUP			<a>Acceptable Use Policy														</>			
+<*q>BCD			<a>Boot Configuration Data														</>
 <*q>BIOS		<a>Basic Input/Output System													</>			
 <*q>BRM			<a>Business Relationnship Management											</>
 <*q>BSOD		<a>Blue Screen of Death															</>
 <*q>BYOD		<a>Bring Your Own Device														</>
-<*q>C&C			<a>Command & Control															</>
-<*a>CAB			<a>Change Advisory Board														</>
+<*q>C&C/C2		<a>Command & Control															</>
+<*q>CA			<a>Certificate Authority														</>
+<*q>CAB			<a>Change Advisory Board														</>
 <*q>CAD			<a>Computer-aided Design														</>
 <*q>CAPTCHA		<a>Completely Automated Public Turing Test to Tell Computers and Humans Apart	</>  
 <*q>CD			<a>Compact Disc																	</>
@@ -41,14 +46,20 @@ Acronym				Definition
 <*q>CDMA		<a>Code-Division Multiple Access												</>
 <*q>CERT		<a>Computer Emergency Response Team												</>
 <*q>CIFS		<a>Common Internet File System													</>
+<*q>CIO			<a>Chief Information Officer													</>
+<*q>CISC		<a>Complex Instruction Set Computer												</>
 <*q>CISO		<a>Chief Information Security Officer											</>
+<*q>CLI			<a>Command Line Interface														</>
 <*q>CMD			<a>Command Prompt																</>
 <*q>CMIS		<a>Capacity Management Information System										</>
 <*q>CMOS		<a>Complementary Metal-Oxide Semiconductor										</>					
+<*q>COBO		<a>Company owned/Business only													</>
+<*q>COPE		<a>Company owned/Personally enabled												</>
 <*q>CPU			<a>Central Processing Unit														</>	
 <*q>CRL			<a>Certificate Revocation List													</>
 <*q>CRC			<a>Cyclic Redundancy Check														</>
-<*q>CSIRT		<a>Computer Security Internet Response Team										</>
+<*q>CSIRT		<a>Computer Security Internet (Incident) Response Team							</>
+<*q>CYOD		<a>Choose your own device														</>
 <*q>DC			<a>Direct Current																</>
 <*q>DDoS		<a>Distributed Denial of Service												</>
 <*q>DDR			<a>Double Data Rate																</>
@@ -65,6 +76,7 @@ Acronym				Definition
 <*q>DSL			<a>Digital Subscriber Line														</>
 <*q>DVI			<a>Digital Visual Interface (A-Analogue only, D-Digital only, I-both)			</>
 <*q>ECC			<a>Error Correcting Code														</>
+<*q>EDR			<a>Endpoint Detection Response													</>
 <*q>EFS			<a>Encrypting File System														</>
 <*q>EMI			<a>Electromagnetic Interference													</>
 <*q>EMM			<a>Enterprise Mobile Management													</>
@@ -87,6 +99,7 @@ Acronym				Definition
 <*q>GUID		<a>Globally Unique Identifier													</>
 <*q>HAL			<a>Hardware Abstraction Layer													</>
 <*q>HAV			<a>Hardware-assisted Virtualization												</>
+<*q>HBA			<a>Host Bus Adapter																</>
 <*q>HCL			<a>Hardware Compatibility List													</>
 <*q>HDCP		<a>High-bandwidth Digital Content Protection									</>
 <*q>HDD			<a>Hard Disk Drive																</>
@@ -107,7 +120,8 @@ Acronym				Definition
 <*q>IR			<a>Infrared																		</>
 <*q>IrDA		<a>Infrared Data Association													</>
 <*q>IRP			<a>Incident Response Plan														</>
-<*q>ISO			<a>International Organization for Standardization								</>
+<*q>ISE			<a>Instant Secure Erasure														</>
+<*q>ISO			<a>International Organization for Standardization (ISO 9660 for disc images)	</>
 <*q>ISP			<a>Internet Service Provider													</>
 <*q>ITIL		<a>Information Technology Infrastructure Library								</>
 <*q>ITX			<a>Information Technology eXtended												</>
@@ -118,9 +132,12 @@ Acronym				Definition
 <*q>LC			<a>Lucent Connector																</>
 <*q>LCD			<a>Liquid Crystal Display														</>
 <*q>LED			<a>Light-emitting Diode															</>
+<*q>LPL			<a>Logo'd Product List															</>
 <*q>LTE			<a>Long Term Evolution															</>
+<*q>LTSB		<a>Long Term Service Branch														</>
 <*q>MAC			<a>Media Access Control/ Mandatory Access Control/ Message authentication code	</>
 <*q>MAM			<a>Mobile Application Management												</>
+<*q>MANO		<a>Management and Ocrhestration													</>
 <*q>MBR			<a>Master Boot Record															</>
 <*q>MDM			<a>Mobile Device Management														</>
 <*q>MFA			<a>Multifactor Authentication													</>
@@ -130,7 +147,9 @@ Acronym				Definition
 <*q>MMC			<a>Microsoft Management Console													</>
 <*q>MOU			<a>Memorandum of Understanding													</>
 <*q>MSDS		<a>Material Safety Data Sheet													</>
+<*q>MSP			<a>Managed Service Provider														</>
 <*q>MSRA		<a>Microsoft Remote Assistance													</>
+<*q>mstsc		<a>Microsoft Terminal Service Client											</>
 <*q>MX			<a>Mail Exchange																</>
 <*q>NDA			<a>Non-disclosure Agreement														</>
 <*q>NetBT		<a>NetBIOS over TCP/IP 															</>
@@ -139,27 +158,32 @@ Acronym				Definition
 <*q>NTFS		<a>New Technology File System													</>
 <*q>NVMe		<a>Non-volatile Memory Express													</>
 <*q>OCR			<a>Optical Character Recognition												</>
+<*q>OEM			<a>Original Equipment Manager													</>
 <*q>OFDMA		<a>Orthogonal Frequency Division Multiple Access								</>
 <*q>OLA			<a>Operational Level Agreement													</>
 <*q>OLED		<a>Organic Light-emitting Diode													</>
 <*q>OS			<a>Operating System																</>
+<*q>OU			<a>Organizational Unit															</>
 <*q>PaaS		<a>Platform as a Service														</>
 <*q>PC			<a>Personal Computer															</>
-<*q>PCle		<a>Peripheral Component Interconnect Express									</>
-<*q>PCL			<a>Printer Command Language														</>
+<*q>PCI			<a>Peripheral Component Interconnect											</>
+<*q>PCIe		<a>PCI Express																	</>
+<*q>PCIx		<a>PCI Extended																	</>
 <*q>PCI DSS		<a>Payment Card Industry Data Security Standard									</>
+<*q>PCL			<a>Printer Command Language														</>
 <*q>PE			<a>Preinstallation Environment													</>
 <*q>PHI			<a>Protected Health Information													</>
 <*q>PII			<a>Personally Identifiable Information											</>
 <*q>PIN			<a>Personal Identification Number												</>
-<*q>PK			<a>Public Key Infrastructure													</>
+<*q>PKI			<a>Public Key Infrastructure													</>
 <*q>PoE			<a>Power over Ethernet															</>
+<*q>POSIX		<a>Portable Operating System Interface											</>
 <*q>POST		<a>Power-on Self-Test															</>
 <*q>PPM			<a>Pages Per Minute																</>
 <*q>PRL			<a>Preferred Roaming List														</>
 <*q>PSK			<a>Pre-shared Key																</>
 <*q>PSU			<a>Power Supply Unit															</>
-<*q>PTK			<a>Pairwise Tranient Key														</>
+<*q>PTK			<a>Pairwise Transient Key														</>
 <*q>PUA			<a>Potentially Unwanted Application												</>
 <*q>PXE			<a>Preboot Execution Environment												</>
 <*q>QoS			<a>Quality Of Service															</>
@@ -167,23 +191,30 @@ Acronym				Definition
 <*q>RAID		<a>Redundant Array of Independent (or Inexpensive) Disks						</>
 <*q>RAM			<a>Random-access Memory															</>
 <*q>RC4			<a>Rivest Cypher 4																</>
+<*q>RDMA		<a>Remote Directory Memory Access												</>
+<*q>ReFS		<a>Resilient File System														</>
 <*q>RF			<a>Radio Frequency																</>
 <*q>RFI			<a>Radio-Frequency Interference 												</>
 <*q>RFID		<a>Radio-Frequency Identification												</>
-<*q>RJ11		<a>Registered Jack Function 11													</>
-<*q>RJ45		<a>Registered Jack Function 45													</>
+<*q>RISC		<a>Reduced Instruction Set Computer												</>
+<*q>RJ11		<a>Registered Jack Function 11 (Phone)											</>
+<*q>RJ45		<a>Registered Jack Function 45 (Ethernet)										</>
+<*q>RMA			<a>Return merchandise authorization												</>
 <*q>RMM			<a>Remote Monitoring and Management												</>
 <*q>RTC			<a>Real Time Clock																</>
 <*q>RTO			<a>Recovery Time Objective														</>
+<*q>RTT			<a>Round Trip Time																</>
 <*q>SaaS		<a>Software as a Service														</>
 <*q>SACM		<a>Service Asset & Configuration Management										</>
 <*q>SAE			<a>Simultaneous authentication of equals										</>
+<*q>SAM			<a>Security Accounts Manager													</>
 <*q>SAS			<a>Serial Attached SCSI [Small Computer System Interface]						</>
 <*q>SATA		<a>Serial Advanced Technology Attachment										</>
 <*q>SC			<a>Subscriber Connector															</>
 <*q>SCADA		<a>Supervisory Control and Data Acquisition										</>
 <*q>SCP			<a>Secure Copy Protection														</>
 <*q>SCSI		<a>Small Computer System Interface												</>
+<*q>SED			<a>Self Encrypting Device														</>
 <*q>SFC			<a>System File Checker															</>
 <*q>SIM			<a>Subscriber Identity Module													</>
 <*q>SIMM		<a>Single Inline Memory Module													</>
@@ -193,10 +224,11 @@ Acronym				Definition
 <*q>SMS			<a>Short Message Service														</>
 <*q>SODIMM		<a>Small Outline Dual Inline Memory Module										</>
 <*q>SOHO		<a>Small Office/Home Office														</>
+<*q>SOP			<a>Standard Operating Procedure													</>
 <*q>SPF			<a>Sender Policy Framework														</>
 <*q>SQL			<a>Structured Query Language													</>
 <*q>SRAM		<a>Static Random-access Memory													</>
-<*q>ssD			<a>Solid-State Drive															</>
+<*q>SSD			<a>Solid-State Drive															</>
 <*q>SSH			<a>Secure Shell																	</>
 <*q>SSID		<a>Service Set Identifier														</>
 <*q>SSL			<a>Secure Sockets Layer															</>
@@ -204,13 +236,13 @@ Acronym				Definition
 <*q>ST			<a>Straight Tip																	</>
 <*q>STP			<a>Shielded Twisted Pair														</>
 <*q>TACACS		<a>Terminal Access Controller Access-Control System								</>
-<*q>XSS			<a>Cross-site Scripting															</>
 <*q>TLS			<a>Transport Layer Security														</>
 <*q>TN			<a>Twisted Nematic																</>
 <*q>TPM			<a>Trusted Platform Module														</>
+<*q>TTY			<a>Teletype																		</>
 <*q>UAC			<a>User Account Control															</>
 <*q>UEFI		<a>Unified Extensible Firmware Interface										</>
-<*q>UNC			<a>Universal Naming Convention													</>
+<*q>UNC			<a>Universal/Unified Naming Convention											</>
 <*q>UPnP		<a>Universal Plug and Play														</>
 <*q>UPS			<a>Uninterruptible Power SupplyTechnology										</>
 <*q>USB			<a>Universal Serial Bus															</>
@@ -218,11 +250,14 @@ Acronym				Definition
 <*q>UTP			<a>Unshielded Twisted Pair														</>
 <*q>VA			<a>Vertical Alignment															</>
 <*q>VDI			<a>Virtual Desktop Infrastructure												</>
+<*q>VESA		<a>Video Electronics Standards Association										</>
 <*q>VGA			<a>Video Graphics Array															</>
 <*q>VM			<a>Virtual Machine																</>
-<*q>VNC			<a>Virtual Networking Computing													</>
 <*q>VOI			<a>Value of Investment															</>
 <*q>VRAM		<a>Video Random-access Memory													</>
 <*q>WEP			<a>Wired Equivalent Privacy														</>
 <*q>WISP		<a>Wireless Internet Service Provider											</>
+<*q>WOL			<a>Wake on LAN																	</>
 <*q>WPA			<a>WiFi Protected Access														</>
+<*q>WSL			<a>Windows Subsystem for Linux													</>
+<*q>XSS			<a>Cross-site Scripting															</>

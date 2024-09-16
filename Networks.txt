@@ -1,22 +1,25 @@
-<> Networks for the CompTIA A+ Core 1 + 2
+Networks for the CompTIA A+ Core 1 + 2
 
-#19
-<q>LAN			<a>Local Area Network															<>
-<q>MAN			<a>Metropolitan Area Network													<>
-<q>NAC			<a>Network Access Control														<>
-<q>NAT			<a>Network Address Translation													<>
-<q>NetBIOS		<a>Networked Basic Input/Output System											<>
-<q>NFS			<a>Network File System															<>
-<q>NIC			<a>Network Interface Card														<>
-<q>ONT			<a>Optical Network Terminal														<>
-<q>PAN			<a>Personal Area Network														<>
-<q>PSTN			<a>Public Switched Telephone Network											<>
-<q>SAN			<a>Storage Area Network															<>
-<q>SDN			<a>Software-defined Networking													<>
-<q>VLAN			<a>Virtual Local Area Network													<>
-<q>VNC			<a>Virtual Network Computer														<>
-<q>VPN			<a>Virtual Private Network														<>
-<q>WAN			<a>Wide Area Network															<>
-<q>WLAN			<a>Wireless Local Area Network													<>
-<q>WMN			<a>Wireless Mesh Network														<>
-<q>WWAN			<a>Wireless Wide Area Network 													<>
+<a:Answer#32>
+<*q>LAN			<a>Local Area Network										</>
+<*q>MAN			<a>Metropolitan Area Network								</>
+<*q>PAN			<a>Personal Area Network									</>
+<*q>PSTN		<a>Public Switched Telephone Network						</>
+<*q>SAN			<a>Storage Area Network										</>
+<*q>VLAN		<a>Virtual Local Area Network								</>
+<*q>VPN			<a>Virtual Private Network									</>
+<*q>WAN			<a>Wide Area Network										</>
+<*q>WLAN		<a>Wireless Local Area Network								</>
+<*q>WMN			<a>Wireless Mesh Network									</>
+<*q>WWAN		<a>Wireless Wide Area Network 								</>
+
+<*q>NAC			<a>Network Access Control									</>
+<*q>NAT			<a>Network Address Translation								</>
+<*q>NLA			<a>Network Location Awareness/Network Level Authentication	</>
+<*q>NetBIOS		<a>Networked Basic Input/Output System						</>
+<*q>NFS			<a>Network File System										</>
+<*q>NIC			<a>Network Interface Card									</>
+<*q>ONT			<a>Optical Network Terminal									</>
+<*q>SDN			<a>Software-defined Networking								</>
+<*q>VNC			<a>Virtual Network Computing								</>
+<*q>VNF			<a>Virtual Network Function									</>

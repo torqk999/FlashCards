@@ -1,6 +1,6 @@
 ﻿/*
 
-	FlashCards v0.1 - Author: Torqk - 2024
+	FlashCards v0.1.2 - Author: Torqk - 2024
 
 	( Check Source directory for sample .txt files )
 
@@ -244,9 +244,6 @@ void operation() {
 			printf("\n");
 	}
 }
-
-
-
 
 int setup() {
 	char fileNameBuffer[64];

@@ -65,6 +65,9 @@
     <Text Include="Networks.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="WindowsFeatures.txt" />
+    <Text Include="Services.txt" />
+    <Text Include="Commands.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IndexArray.h">

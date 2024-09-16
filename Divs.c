@@ -251,17 +251,24 @@ void Divs_Parse(FILE* f) {
 		case LABEL:
 			if (check && targetDiv && !label) {
 				//printf("div labelPtr %d targeted!\n", (size_t)lblPtr);
-				targetDiv->_name = lblPtr;
 				label = 1;
-				width = 0;
+				targetDiv->_name = lblPtr;
+				if (width) {
+					targetDiv->_colWidth = widthBuffer;
+					width = 0;
+				}
 			}
 			break;
 
 		case WIDTH:
 			if (check && targetDiv && !width) {
-				widthBuffer = 0;
-				label = 0;
 				width = 1;
+				widthBuffer = 0;
+				if (label) {
+					*lblPtr = '\0';
+					lblPtr++;
+					label = 0;
+				}
 			}
 			break;
 

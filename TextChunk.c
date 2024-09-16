@@ -17,7 +17,8 @@ void TextChunk_Fresh(TextChunk* loc, char* head)
 
 void TextChunk_PrintWord(TextChunk* loc)
 {
-	while (!whiteSpace(loc->_head[loc->_currentIndex])) {
+	while (!whiteSpace(loc->_head[loc->_currentIndex]) &&
+		loc->_currentIndex < loc->_size_full) {
 		printf("%c", loc->_head[loc->_currentIndex]);
 		loc->_currentIndex++;
 	}

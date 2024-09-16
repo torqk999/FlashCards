@@ -1,0 +1,15 @@
+<q:Acronym#8><a:Answer#32>
+<*q>DDoS		<a>Distributed Denial of Service				</>
+<*q>DoS			<a>Denial of Service							</>
+<*q>IaaS		<a>Infrastructure as a Service					</>
+<*q>ISP			<a>Internet Service Provider					</>
+<*q>LTSB		<a>Long Term Service Branch						</>
+<*q>PaaS		<a>Platform as a Service						</>
+<*q>QoS			<a>Quality Of Service							</>
+<*q>RADIUS		<a>Remote Authentication Dial-in User Service	</>
+<*q>SaaS		<a>Software as a Service						</>
+<*q>SACM		<a>Service Asset & Configuration Management		</>
+<*q>SLA			<a>Service Level Agreement						</>
+<*q>SMS			<a>Short Message Service						</>
+<*q>SSID		<a>Service Set Identifier						</>
+<*q>WISP		<a>Wireless Internet Service Provider			</>

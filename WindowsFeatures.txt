@@ -1,0 +1,25 @@
+<q:Feature#16>
+<h:Home#32><p:Pro#32><e:Enterprise#32><d:Education#32><w:Pro WorkStations#32>
+<*q>N/KN Edition								<h>Yes			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Maximum Supported RAM (64 bit)				<h>128GB		<p>2TB				<e>512GB			<d>512GB			<w>6TB				</>
+<*q>Continuum									<h>Yes			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Cortana										<h>Yes			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Microsoft Edge								<h>Yes			<p>Yes				<e>Except for LTSB	<d>Yes				<w>					</>
+<*q>Mobile Device Management (MDM)				<h>Yes			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Windows Hello								<h>Yes			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>BitLocker									<h>No			<p>Yes				<e>Yes				<d>Yes				<w>Yes				</>
+<*q>Business Storage							<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Current Branch for Business (CBB)			<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Active Directory Member						<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Enterprise Data Protection					<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Enterprise Mode Internet Explorer (EMIE)	<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Hyper-V										<h>No			<p>Only 64bit		<e>Only 64bit		<d>Only 64bit		<w>Only 64bit		</>
+<*q>Azure AD Member								<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>Remote Desktop Connection					<h>Only	Client	<p>Client & Host	<e>Client & Host	<d>Client & Host	<w>Client & Host	</>
+<*q>Windows Update for Business					<h>No			<p>Yes				<e>Yes				<d>Yes				<w>					</>
+<*q>AppLocker									<h>No			<p>No				<e>Yes				<d>Yes				<w>					</>
+<*q>Credential Guard							<h>No			<p>No				<e>Yes				<d>Yes				<w>					</>
+<*q>Device Guard								<h>No			<p>No				<e>Yes				<d>Yes				<w>					</>
+<*q>DirectAccess								<h>No			<p>No				<e>Yes				<d>Yes				<w>					</>
+<*q>Windows to Go								<h>No			<p>No				<e>Yes				<d>Yes				<w>					</>
+<*q>Long Term Servicing Branch (LTSB)			<h>No			<p>No				<e>Yes				<d>No				<w>					</>

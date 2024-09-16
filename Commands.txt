@@ -1,0 +1,29 @@
+<q:Command#16><s:Operating Systems#16><d:Description#64>
+
+<*q>dig			<s>Lin			<d>
+<*q>cat			<s>Lin
+<*q>nano		<s>Lin
+<*q>find		<s>
+<*q>apt-get		<s>
+<*q>ip			<s>
+<*q>df			<s>
+<*q>yum			<s>
+<*q>netstat		<s>Lin,Win
+<*q>net user	<s>
+<*q>net use		<s>
+<*q>hostname	<s>
+<*q>ls			<s>Lin,Mac
+<*q>pwd			<s>
+<*q>mv			<s>
+<*q>cp			<s>
+<*q>rm			<s>
+<*q>chmod		<s>
+<*q>chown		<s>
+<*q>su			<s>
+<*q>sudo		<s>
+<*q>grep		<s>
+<*q>ps			<s>
+<*q>man			<s>
+<*q>top			<s>
+<*q>dir			<s>
+<*q>du			<s>

@@ -137,9 +137,12 @@
   <ItemGroup>
     <Text Include="Acronyms.txt" />
     <Text Include="802_11.txt" />
+    <Text Include="Commands.txt" />
     <Text Include="Networks.txt" />
     <Text Include="Protocols.txt" />
+    <Text Include="Services.txt" />
     <Text Include="sourceNu.txt" />
+    <Text Include="WindowsFeatures.txt" />
     <Text Include="WirelessSecurity.txt" />
     <Text Include="Test.txt" />
     <Text Include="Ports.txt" />

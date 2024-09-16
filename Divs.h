@@ -7,7 +7,7 @@
 #define DIVS_H
 
 #define DIV_MAX_CNT 16
-#define DIV_LBL_BIN_SIZE 128
+#define DIV_LBL_BIN_SIZE 256
 #define RESERVED_TOLKEN_CNT 7
 #define DEF_DIV_COL_WIDTH 32
 

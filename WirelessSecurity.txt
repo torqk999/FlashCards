@@ -1,11 +1,11 @@
 <> Security Protocols
 
 #8
-<q>WEP		<a>RC4				| CRC-32	|	   64bit<d>deprecated due to flawed security algorithm																							<>
-<q>WEP2		<a>RC4				| CRC-32	|     128bit<d>stop-gap between WEP and WPA, hoping to mitigate the "duplicate deficieny" of the initializaion vector								<>
-<q>WEP+		<a>RC4				| CRC-32	|  64/128bit<d>enhanced version of WEP that avoids "weak" initialization vectors																	<>
-<q>WPA		<a>TKIP				| MIC		|  64/128bit<d>intermediate measure for replacing WEP. TKIP employs "per-packet-key". MIC an integrity improvement over CRC							<>
-<q>WPA2		<a>CCMP/PTK	(AES)	| PTK(MIC)	|     128bit<d>introduces the "4-way handshake", providing a PSK on both ends without actually transmitting											<>
-<q>WPA3		<a>CCM/GCM (AES)	| PTK(MIC)	| 128/192bit<d>TKIP not allowed within the standard, and replaces PSK with SAE. Also provides support for OWE for open networks without passwords	<>
+<q>WEP		<a>RC4					| CRC-32	|	   64bit<d>deprecated due to flawed security algorithm																							<>
+<q>WEP2		<a>RC4					| CRC-32	|     128bit<d>stop-gap between WEP and WPA, hoping to mitigate the "duplicate deficieny" of the initializaion vector								<>
+<q>WEP+		<a>RC4					| CRC-32	|  64/128bit<d>enhanced version of WEP that avoids "weak" initialization vectors																	<>
+<q>WPA		<a>TKIP					| MIC		|  64/128bit<d>intermediate measure for replacing WEP. TKIP employs "per-packet-key". MIC an integrity improvement over CRC							<>
+<q>WPA2		<a>CCMP	(TKIP/AES)		| PTK(MIC)	|     128bit<d>introduces the "4-way handshake", providing a PSK on both ends without actually transmitting											<>
+<q>WPA3		<a>CCM/GCM (AES)		| PTK(MIC)	| 128/192bit<d>TKIP not allowed within the standard, and replaces PSK with SAE. Also provides support for OWE for open networks without passwords	<>
 <q>WPA-PSK  <a>WPA-Personal mode						<d>																																		<>
 <q>WPA-E	<a>WPA-Enterprise mode						<d>																																		<>
